@@ -1,15 +1,14 @@
-# wemapgl
+# digcommerce_project
 
-SDK Bản đồ WeMap trên Flutter
+digital commerce project
 
-## IOS Configuration
+## run project
 
-1. Nhận API Key từ nhóm phát triển
+1. cd digcomerce_project
 
-2. Thêm API Key vào file main.dart
+2. command:
 
-```
 
-  WEMAP.Configuration.setWeMapKey('YOUR_API_KEY');
+    - flutter pub get
+    - flutter run
 
-```
